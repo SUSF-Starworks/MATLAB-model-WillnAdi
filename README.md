@@ -1,7 +1,3 @@
-# MATLAB-model-WillnAdi
-MATLAB-model-WillnAdi
-
-
 # MATLAB–GitHub Integration Guide
 ## Setting up, connecting, synchronising and managing MATLAB projects with GitHub
 
