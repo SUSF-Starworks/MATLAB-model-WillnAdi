@@ -247,6 +247,16 @@ nothing to commit, working tree clean
 
 # 7. Pushing updates FROM MATLAB to GitHub
 
+Simple method, just use:
+
+!git pull --rebase origin main
+
+then 
+
+!git add . && git commit -m "whatever message you want" && git push origin main
+
+et voila.
+
 When you modify MATLAB files, you need to commit and push your changes.
 
 ## 7.1 Using MATLAB buttons
